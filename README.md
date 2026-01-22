@@ -1,16 +1,33 @@
-## Hi there 👋
+## ¡Ey, tú! <br>
+Soy *Sofia*, una desarrolladora joven, interesada en Python, con experiencia en bases de datos, entrenamiento de redes neuronales —entreno mis propias Inteligencias Artificiales a pequeña escala—, diseño de videojuegos 2D y creación de páginas web. Estudio algoritmos, estructuras y análisis de datos, lógica de negocio, entre otros.<br>
 
-<!--
-**Soffia-Shez/Soffia-Shez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mis Hard Skills:** 
+<div>
+  <ul>
+    <li>Python</li>
+    <li>Flask</li>
+    <li>SQL</li>
+    <li>Desarrollo de API</li>
+    <li>Seguridad de aplicaciones web</li>
+    <li>Procesamiento de datos (NumPy)</li>
+    <li>Matplotlib</li>
+    <li>Aprendizaje automático (TensorFlow)</li>
+    <li>Big Data</li>
+    <li>Scripts para automatización, desarrollo de mecánicas de juego (Pygame)</li>
+  </ul>
+</div>
+<br>
 
-Here are some ideas to get you started:
+**Mis proyectos:**<br>
+[Red Neuronal Convolucional entrenada para la distinción de clases](https://github.com/Soffia-Shez/CNN)
+[Videojuego 2D](https://github.com/Soffia-Shez/Galactic-Marathon)
+<br>
+**Contacto:**<br>
+<div>
+  <ul>
+    <li>Email01: sara.sanchez2207@gmail.com</li>
+    <li>Email02: gladyshelena14@hotmail.com</li>
+    <li>Discord: https://discord.com/users/soffia._55</li>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

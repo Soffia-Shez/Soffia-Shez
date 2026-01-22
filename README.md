@@ -16,12 +16,12 @@ Soy *Sofia*, una desarrolladora joven, interesada en Python, con experiencia en 
     <li>Scripts para automatización, desarrollo de mecánicas de juego (Pygame)</li>
   </ul>
 </div>
-<br>
-**Mis proyectos:**<br>
+
+**Mis proyectos:** <br>
 [Red Neuronal Convolucional entrenada para la distinción de clases](https://github.com/Soffia-Shez/CNN)<br>
 [Videojuego 2D](https://github.com/Soffia-Shez/Galactic-Marathon)
-<br>
-**Contacto:**<br>
+
+**Contacto:** <br>
 <div>
   <ul>
     <li>Email01: sara.sanchez2207@gmail.com</li>

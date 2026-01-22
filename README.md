@@ -17,6 +17,25 @@ Soy *Sofia*, una desarrolladora joven, interesada en Python, con experiencia en 
   </ul>
 </div>
 
+**Mis Soft Skills:**
+<div>
+  <ul>
+    <li>Trabajo en equipo</li>
+    <li>Comunicación</li>
+    <li>Oratoria</li>
+    <li>Adaptación</li>
+    <li>Liderazgo</li>
+    <li>Empatía</li>
+    <li>Aceptación</li>
+    <li>Time management</li>
+    <li>Escucha activa</li>
+    <li>Resolución de problemas</li>
+    <li>Colaboración</li>
+    <li>Flexibilidad</li>
+  </ul>
+</div>
+<br>
+
 **Mis proyectos:** <br>
 [Red Neuronal Convolucional entrenada para la distinción de clases](https://github.com/Soffia-Shez/CNN)<br>
 [Videojuego 2D](https://github.com/Soffia-Shez/Galactic-Marathon)

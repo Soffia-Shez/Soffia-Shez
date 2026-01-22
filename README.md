@@ -17,9 +17,8 @@ Soy *Sofia*, una desarrolladora joven, interesada en Python, con experiencia en 
   </ul>
 </div>
 <br>
-
 **Mis proyectos:**<br>
-[Red Neuronal Convolucional entrenada para la distinción de clases](https://github.com/Soffia-Shez/CNN)
+[Red Neuronal Convolucional entrenada para la distinción de clases](https://github.com/Soffia-Shez/CNN)<br>
 [Videojuego 2D](https://github.com/Soffia-Shez/Galactic-Marathon)
 <br>
 **Contacto:**<br>

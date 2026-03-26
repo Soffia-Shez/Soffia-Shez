@@ -40,7 +40,8 @@ Soy *Sofia*, una desarrolladora joven, interesada en Python, con experiencia en 
 [Red Neuronal Convolucional entrenada para la distinción de clases](https://github.com/Soffia-Shez/CNN)<br>
 [Videojuego 2D](https://github.com/Soffia-Shez/Galactic-Marathon)<br>
 [Astroblog](https://github.com/Soffia-Shez/Blog)<br>
-[Portafolio Web Público](https://github.com/Soffia-Shez/Portafolio-Web-P-blico)
+[Portafolio Web Público](https://github.com/Soffia-Shez/Portafolio-Web-P-blico)<br>
+[Bot telegram](https://github.com/Soffia-Shez/Asistente-Virtual-Automatizado)
 
 **Contacto:** <br>
 <div>
